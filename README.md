@@ -1,4 +1,4 @@
-# CodeTech-Task2
+# CODETECH-Task2
 
 Name:- Kartiki Adhav 
 Company:-CODETECH IT SOLUTIONS 
